@@ -1,0 +1,25 @@
+/*
+** Primary Color Scheme: Navy Blue (#192a56) & Teal (#00bcd4) **
+*/
+
+body {
+    font-family: Arial, sans-serif; /* Professional Font */
+    background-color: #f4f4f9; /* Off-White Background */
+    color: #192a56; /* Deep Navy Blue Text */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #192a56; /* Header को Navy Blue रंग दिया */
+    color: #f4f4f9; /* Header के टेक्स्ट को Off-White कर दिया */
+    padding: 15px 50px;
+    text-align: center;
+}
+
+nav a {
+    color: #00bcd4; /* Bright Teal/Cyan Accent Color */
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
